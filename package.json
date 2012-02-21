@@ -1,17 +1,17 @@
 { 
-  "name": "ntwitter", 
+  "name": "tweetdig-ntwitter", 
   "version": "0.2.10", 
   "description": "Asynchronous Twitter REST/stream/search client API for node.js.", 
   "keywords": ["twitter","streaming","oauth"], 
-  "homepage": "https://github.com/AvianFlu/ntwitter", 
-  "author": "jdub, changes by AvianFlu", 
+  "homepage": "https://github.com/maxsoftware/ntwitter", 
+  "author": "jdub, changes by AvianFlu, mheap", 
   "licenses": { 
     "type": "MIT", 
-    "url": "http://github.com/AvianFlu/ntwitter/raw/master/LICENSE"
+    "url": "http://github.com/maxsoftware/ntwitter/raw/master/LICENSE"
   },
   "repository": { 
     "type": "git", 
-    "url": "http://github.com/AvianFlu/ntwitter.git"
+    "url": "http://github.com/maxsoftware/ntwitter.git"
   }, 
   "dependencies": { 
     "oauth": ">=0.8.4", 
